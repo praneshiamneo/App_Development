@@ -9,13 +9,17 @@ Prerequisites:
 Frontend:
 
 Node.js (version 14.x or higher)
+
 npm (comes with Node.js)
 
 Backend:
 
 Java Development Kit (JDK) (version 17 or higher)
+
 MySQL (version 8.x recommended)
+
 MySQL Workbench
+
 Visual Studio Code (VS Code)
 
 Installation:
@@ -30,6 +34,7 @@ Extract the contents to your local machine.
 2.1 Create a New React Project:
 
 Open a terminal in VS Code.
+
 Run the following command to create a new React project:
 
 npx create-react-app your-project-name
